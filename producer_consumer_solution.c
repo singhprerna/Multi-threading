@@ -67,7 +67,8 @@ int main()
   return 0;
 }
 
-/*
+/* OUTPUT:
+
 1.producer
 2.consumer
 3.for exit
