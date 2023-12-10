@@ -63,3 +63,22 @@ int main()
     }
     return 0;
 }
+
+/* OUTPUT:
+
+Philosopher 0 is thinking.
+Philosopher 0 is eating.
+Philosopher 1 is thinking.
+Philosopher 3 is thinking.
+Philosopher 3 is eating.
+Philosopher 4 is thinking.
+Philosopher 2 is thinking.
+Philosopher 0 Finished eating 
+Philosopher 3 Finished eating 
+Philosopher 2 is eating.
+Philosopher 4 is eating.
+Philosopher 4 Finished eating 
+Philosopher 2 Finished eating 
+Philosopher 1 is eating.
+Philosopher 1 Finished eating 
+*/
